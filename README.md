@@ -18,7 +18,7 @@
 | Project | Description |
 |---|---|
 | **[Campus IA](https://campus-ai-bice-eight.vercel.app/)** | Study platform with an AI tutor. |
-| **[School App](https://schoolday-front.vercel.app/entrar)** | Student and class management, plus communication with parents. |
+| **[MuralFlow](https://schoolday-front.vercel.app/entrar)** | School management app: student and class management, plus communication with parents. |
 | **Point of Sale (POS)** | Sales system with product catalog, inventory control and receipt printing. |
 | **Time Tracking System** | Employee clock-in and clock-out, with hour reports and a manager dashboard. |
 
@@ -59,7 +59,7 @@ Open to conversations about roles, projects and partnerships.
 **Proyectos**
 
 - **[Campus IA](https://campus-ai-bice-eight.vercel.app/):** plataforma de estudio con tutor de inteligencia artificial.
-- **[App escolar](https://schoolday-front.vercel.app/entrar):** gestión de alumnos y cursos, y comunicación con los padres.
+- **[MuralFlow](https://schoolday-front.vercel.app/entrar):** app escolar para gestión de alumnos y cursos, y comunicación con los padres.
 - **Punto de venta (POS):** sistema de ventas con registro de productos, control de inventario y emisión de tickets.
 - **Sistema de control de asistencia:** registro de entrada y salida de empleados, con informes de horas y panel para el gerente.
 
@@ -84,7 +84,7 @@ Busco oportunidades como **Desarrollador Full Stack**, en modalidad remota o hí
 **Projetos**
 
 - **[Campus IA](https://campus-ai-bice-eight.vercel.app/):** plataforma de estudos com tutor de inteligência artificial.
-- **[App para escola](https://schoolday-front.vercel.app/entrar):** gestão de alunos, turmas e comunicação com os pais.
+- **[MuralFlow](https://schoolday-front.vercel.app/entrar):** app escolar para gestão de alunos, turmas e comunicação com os pais.
 - **Frente de loja (PDV):** sistema de vendas com cadastro de produtos, controle de estoque e emissão de cupom.
 - **Sistema de ponto:** registro de entrada e saída de funcionários, com relatórios de horas e painel do gestor.
 
