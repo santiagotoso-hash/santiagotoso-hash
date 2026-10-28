@@ -18,7 +18,7 @@
 | Project | Description |
 |---|---|
 | **[Campus IA](https://campus-ai-bice-eight.vercel.app/)** | Study platform with an AI tutor. |
-| **[MuralFlow](https://schoolday-front.vercel.app/entrar)** | School management app: student and class management, plus communication with parents. |
+| **[MuralFlow](https://mural-flow-front.vercel.app/)** | School management app: student and class management, plus communication with parents. |
 | **Point of Sale (POS)** | Sales system with product catalog, inventory control and receipt printing. |
 | **Time Tracking System** | Employee clock-in and clock-out, with hour reports and a manager dashboard. |
 
